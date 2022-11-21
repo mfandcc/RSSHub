@@ -652,6 +652,9 @@
     "/cdi/:id?": [
         "nczitzk"
     ],
+    "/cdzjryb/zw/projectList": [
+        "TonyRL"
+    ],
     "/cebbank/quotation/all": [
         "linbuxiao"
     ],
@@ -748,6 +751,9 @@
     ],
     "/cnki/journals/debut/:name": [
         "Fatpandac"
+    ],
+    "/cnki/author/:code": [
+        "harveyqiu"
     ],
     "/cntheory/paper/:id?": [
         "nczitzk"
@@ -1742,24 +1748,6 @@
     "/hellogithub/volume": [
         "nczitzk"
     ],
-    "/heu/yjsy/list/:id": [
-        "Derekmini"
-    ],
-    "/heu/job/bigemploy": [
-        "Derekmini"
-    ],
-    "/heu/job/calendar": [
-        "Derekmini"
-    ],
-    "/heu/job/list/:id": [
-        "Derekmini"
-    ],
-    "/heu/gx/:type/:colume/:id?": [
-        "Derekmini"
-    ],
-    "/heu/uae/list/:id": [
-        "Derekmini"
-    ],
     "/hex-rays/news": [
         "hellodword ",
         "TonyRL"
@@ -1872,6 +1860,27 @@
     ],
     "/houxu/": [
         "nczitzk"
+    ],
+    "/hrbeu/job/bigemploy": [
+        "Derekmini"
+    ],
+    "/hrbeu/job/calendar": [
+        "Derekmini"
+    ],
+    "/hrbeu/job/list/:id": [
+        "Derekmini"
+    ],
+    "/hrbeu/gx/:type/:colume/:id?": [
+        "Derekmini"
+    ],
+    "/hrbeu/uae/list/:id": [
+        "Derekmini"
+    ],
+    "/hrbeu/ugs/news/:author?/:category?": [
+        "XYenon"
+    ],
+    "/hrbeu/yjsy/list/:id": [
+        "Derekmini"
     ],
     "/huangz/": [
         "stormbuf"
@@ -2702,6 +2711,21 @@
     "/nikkei-cn/:language?/:category?/:type?": [
         "nczitzk"
     ],
+    "/nintendo/direct": [
+        "HFO4"
+    ],
+    "/nintendo/eshop/:region": [
+        "HFO4"
+    ],
+    "/nintendo/news": [
+        "HFO4"
+    ],
+    "/nintendo/news/china": [
+        "NeverBehave"
+    ],
+    "/nintendo/system-update": [
+        "hoilc"
+    ],
     "/nippon/:category?": [
         "laampui"
     ],
@@ -2789,6 +2813,9 @@
     "/nmbxd1/:id": [
         "miles170"
     ],
+    "/nmtv/column/:id?": [
+        "nczitzk"
+    ],
     "/nodejs/blog/:language?": [
         "nczitzk"
     ],
@@ -2830,6 +2857,9 @@
         "evnydd0sf"
     ],
     "/nua/index/:type": [
+        "evnydd0sf"
+    ],
+    "/nua/lib/:type": [
         "evnydd0sf"
     ],
     "/nua/sxw/:type": [
@@ -2882,19 +2912,27 @@
     ],
     "/nyaa/search/:query?": [
         "Lava-Swimmer",
-        "noname1897"
-    ],
-    "/nyaa/sukebei/search/:query?": [
-        "Lava-Swimmer",
-        "noname1897"
+        "noname1776"
     ],
     "/nyaa/user/:username?": [
         "Lava-Swimmer",
-        "noname1897"
+        "noname1776"
+    ],
+    "/nyaa/user/:username/search/:query?": [
+        "Lava-Swimmer",
+        "noname1776"
+    ],
+    "/nyaa/sukebei/search/:query?": [
+        "Lava-Swimmer",
+        "noname1776"
     ],
     "/nyaa/sukebei/user/:username?": [
         "Lava-Swimmer",
-        "noname1897"
+        "noname1776"
+    ],
+    "/nyaa/sukebei/user/:username/search/:query?": [
+        "Lava-Swimmer",
+        "noname1776"
     ],
     "/nytimes/author/:byline": [
         "kevinschaul"
@@ -3321,6 +3359,9 @@
     "/samsung/research/blog": [
         "nczitzk"
     ],
+    "/saraba1st/digest/:tid": [
+        "shinemoon"
+    ],
     "/saraba1st/thread/:tid": [
         "zengxs"
     ],
@@ -3356,7 +3397,7 @@
     "/scmp/:category_id": [
         "proletarius101"
     ],
-    "/sctv/programme/:id?": [
+    "/sctv/programme/:id?/:limit?/:isFull?": [
         "nczitzk"
     ],
     "/scvtc/xygg": [
@@ -3510,7 +3551,7 @@
         "kt286"
     ],
     "/sse/disclosure/:query?": [
-        "alienmao"
+        "harveyqiu"
     ],
     "/sse/inquire": [
         "Jeason0228"
@@ -3778,8 +3819,9 @@
         "nczitzk",
         "bigfei"
     ],
-    "/theverge/": [
-        "HenryQW"
+    "/theverge/:hub?": [
+        "HenryQW",
+        "vbali"
     ],
     "/thwiki/calendar/:before?/:after?": [
         "aether17"
@@ -4316,6 +4358,9 @@
     ],
     "/yicai/vip/:id?": [
         "nczitzk"
+    ],
+    "/ymgal/article/:type?": [
+        "SunBK201"
     ],
     "/yoasobi-music/info/:category": [
         "Kiotlin"
@@ -5019,14 +5064,6 @@
     "/ps/ps4updates": [],
     "/ps/:lang?/product/:gridName": [],
     "/quantamagazine/archive": [],
-    "/nintendo/eshop/jp": [],
-    "/nintendo/eshop/hk": [],
-    "/nintendo/eshop/us": [],
-    "/nintendo/eshop/cn": [],
-    "/nintendo/news": [],
-    "/nintendo/news/china": [],
-    "/nintendo/direct": [],
-    "/nintendo/system-update": [],
     "/metred/fuli": [],
     "/mit/graduateadmissions/:type/:name": [],
     "/mit/ocw-top": [],
